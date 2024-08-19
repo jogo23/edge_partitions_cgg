@@ -1,6 +1,6 @@
 # Edge partitions of Complete Geometric Graphs
 
-This is the code accompanying my phd thesis, which I used for the chapter concerning edge partitions of complete geometric graphs. See also our paper [Edge Partitions of Complete Geometric Graphs](https://drops.dagstuhl.de/opus/volltexte/2022/16014/).
+This is the code accompanying my [phd thesis](https://refubium.fu-berlin.de/handle/fub188/41980), which I used for the chapter concerning edge partitions of complete geometric graphs. See also our paper [Edge Partitions of Complete Geometric Graphs](https://drops.dagstuhl.de/opus/volltexte/2022/16014/).
 
 ## What does this program do?
 
